@@ -2,7 +2,9 @@
 Script para desligamento remoto automático das estações de trabalho de um domínio.
 
 
-desligar-computadores.zip - Contéudo:
+desligar-computadores.zip
+
+Contéudo:
 
 desligar-computadores.bat - Script para desligamento das estações de trabalho.
 
